@@ -37,6 +37,18 @@ Blood banks often face challenges in maintaining adequate blood supply due to un
 
 ---
 
+## 📊 Dataset
+
+Due to large file size, the dataset is hosted on Google Drive.
+
+🔗 Download Dataset:
+- [Blood_Donation_Dataset](https://drive.google.com/drive/folders/1GYXZlKUEY9ahAI-OMcfWunEFvy6eBc2q?usp=drive_link)
+
+📌 Note:
+Download the dataset and place it inside the  folder before running the notebook.
+
+---
+
 ## 📊 Dataset Overview
 
 | Feature     | Description                          |
@@ -94,11 +106,11 @@ Blood banks often face challenges in maintaining adequate blood supply due to un
 
 ### 🔹 Main Dashboard
 
-![Dashboard](assets/dashboard_preview.png)
+![Dashboard](assets/dashboard_Preview.png)
 
-### 🔹 Dashboard Nodel Performnce
+### 🔹 Model Performnce Dashboard
 
-![Model Performance](assets/dashboard_model_peformance_preview.png)
+![Model Performance_Dashboard](assets/dashboard_model_peformance_preview.png)
 
 ### 🔹 ROC Curve
 
@@ -108,13 +120,13 @@ Blood banks often face challenges in maintaining adequate blood supply due to un
 
 ![PR Curve](assets/pr_curve.png)
 
-### 🔹 Confusion Matrix 1
+### 🔹 Confusion Default
 
-![Confusion Matrix 1](assets/confusion_default.png)
+![Confusion Default](assets/confusion_default.png)
 
-### 🔹 Confusion Matrix 2
+### 🔹 Confusion bestf1
 
-![Confusion Matrix 2](assets/confusion_bestf1.png)
+![Confusion bestf1](assets/confusion_bestf1.png)
 
 ---
 
